@@ -55,8 +55,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/martinkovarcik/di.git",
-      "canonical": false
+      "url": "https://github.com/martinkovarcik/di.git"
     }
   ]
 }
