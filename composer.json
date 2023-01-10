@@ -51,5 +51,12 @@
     "branch-alias": {
       "dev-master": "3.5.x-dev"
     }
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/martinkovarcik/di.git",
+      "canonical": false
+    }
+  ]
 }
