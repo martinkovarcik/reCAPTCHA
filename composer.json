@@ -22,7 +22,7 @@
   },
   "require": {
     "php": ">=7.2",
-    "contributte/di": "^0.5.1",
+    "contributte/di": "dev-di31",
     "nette/forms": "^3.0.0",
     "nette/utils": "^3.0.0"
   },
